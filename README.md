@@ -14,7 +14,7 @@ In this repository you will find a JSON object in `products.js` with some produc
 }
 ```
 
-Use `create-react-app` (https://github.com/facebook/create-react-app) as a simple skeleton for your project - this gives you a locally up-and-running React app within seconds.
+Use `create-react-app` (https://github.com/facebook/create-react-app) as a simple skeleton for your project - this gives you a locally up-and-running React app within seconds. Copy the `products.js` file into your project.
 
 **Don't download/clone/fork this repo, just .zip and return folder that's created using `create-react-app` (without node_modules...)**
 
