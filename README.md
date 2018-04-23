@@ -21,6 +21,7 @@ Create a website that uses the product data so users can:
 2. See a list of products per category
 3. Delete a product
 4. Add a new product
+
 **NOTE:** For steps 3 & 4 you don't actually have to modify the `products.json` file, it's enough to just use the data there as a starting point (e.g. you could use the data as the initial state in your main component and then just add/delete from the state)
 
 Extra cool points:
