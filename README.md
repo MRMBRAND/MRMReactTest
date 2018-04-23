@@ -18,7 +18,7 @@ Use `create-react-app` (https://github.com/facebook/create-react-app) as a simpl
 
 Create a website that uses the product data so users can:
 1. See a list of all products,
-2. See a list of products per category
+2. Toggle between categories and see a list of products per category
 3. Delete a product
 4. Add a new product
 
