@@ -1,4 +1,4 @@
-[
+export const products = [
   {
     "name": "Shot of Goldschläger",
     "description": "chilled liqueur with tiny, floating, gold flakes",
@@ -49,4 +49,4 @@
     "description": "One wine took a hit from the movie 'Sideways' and it's infamous line about not drinking any Merlot. But Pinot Noir may have gotten a bit of a boost. The wine didn't get it's own notorious line from the film but it was mentioned favorably once or twice.",
     "category": "Wines"
   }
-]
+];
