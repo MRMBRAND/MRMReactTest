@@ -16,6 +16,8 @@ In this repository you will find a JSON object in `products.js` with some produc
 
 Use `create-react-app` (https://github.com/facebook/create-react-app) as a simple skeleton for your project - this gives you a locally up-and-running React app within seconds.
 
+**Don't download/clone/fork this repo, just .zip and return folder that's created using `create-react-app` (without node_modules...)**
+
 Create a website that uses the product data so users can:
 1. See a list of all products,
 2. Toggle between categories and see a list of products per category
@@ -23,6 +25,8 @@ Create a website that uses the product data so users can:
 4. Add a new product
 
 **NOTE:** For steps 3 & 4 you don't actually have to modify the `products.js` file, it's enough to just use the data there as a starting point (e.g. you could use the data as the initial state in your main component and then just add/delete from the state)
+
+**NOTE:** There should be no back-end for this application, it's purely front-end. Don't worry about persisting the data/changes on refresh.
 
 Extra cool points:
 
